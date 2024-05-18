@@ -1,0 +1,56 @@
+{
+    "image": "https://ipfs.io/ipfs/Qmdceohrfw6YPBuxjSPkAbApLPYcQm1K5Uk24oLHiBPykR/G1(4)-HUMANOID-EYES-BLUE-FL=100-MS=50-EC=125-RT=100-RS=100-SR=75-JH=50-PLUS-RC-SM-ST-CFzxs.png",
+    "name": "Digital Golem #CFzxs",
+    "description": "Interactive game character",
+    "edition": 61,
+    "attributes": [
+        {
+            "value": "(4)",
+            "trait_type": "batch"
+        },
+        {
+            "value": "HUMANOID",
+            "trait_type": "subspecies"
+        },
+        {
+            "value": "EYES",
+            "trait_type": "title"
+        },
+        {
+            "value": "BLUE",
+            "trait_type": "addionals"
+        },
+        {
+            "value": "100",
+            "trait_type": "FL"
+        },
+        {
+            "value": "50",
+            "trait_type": "MS"
+        },
+        {
+            "value": "125",
+            "trait_type": "EC"
+        },
+        {
+            "value": "100",
+            "trait_type": "RT"
+        },
+        {
+            "value": "100",
+            "trait_type": "RS"
+        },
+        {
+            "value": "75",
+            "trait_type": "SR"
+        },
+        {
+            "value": "50",
+            "trait_type": "JH"
+        },
+        {
+            "value": "RC SM ST",
+            "trait_type": "PLUS"
+        }
+    ]
+}
